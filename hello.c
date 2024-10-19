@@ -4,7 +4,7 @@
 #include<stdio.h>
 void printout() {
     //edit your code here
-    printf("hello world");  // 添加分号
+
 }
 
 int main() {
